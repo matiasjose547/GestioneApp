@@ -15,6 +15,11 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: jakarta.mvc:jakarta.mvc-api:2.0.0" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.30" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.19.4" />
+          <element id="library" level="project" name="Maven: org.glassfish:javax.faces:2.4.0" />
+          <element id="library" level="project" name="Maven: javax.el:javax.el-api:3.0.1-b04" />
+          <element id="library" level="project" name="Maven: org.glassfish:javax.el:3.0.1-b04" />
         </element>
       </element>
       <element id="directory" name="META-INF">
